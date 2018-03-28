@@ -1,7 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70c2c026-8d71-41d1-a03d-cd7cd60901db" name="Default" comment="" />
+    <list default="true" id="70c2c026-8d71-41d1-a03d-cd7cd60901db" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/UItest/上海郊区的晨曦图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/中国舟山枸杞岛图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/乡村田野  沂蒙山风景  乡下菜园 山村 乡村 乡下  田园  大豆 秋收 特产图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/云雾群山图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/光芒万丈图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/内蒙地区随拍图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/剪影椰树里的城市图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/双月湾沙滩海边图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/古镇上的小茶坊图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/吉他图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/呼伦贝尔图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/唯美光晕图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/国航俯瞰广州城市图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/坝上草原上的小毛驴图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/坝上草原图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/城市光晕图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/墨尔本海滩图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/墨尔本王子港遗址图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/夕阳下的田野图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/大海图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/大连西湖嘴将军石图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/天空下的圣塞巴斯蒂安图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/实名认证.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/将军石落日图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/小房子图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/山梁上的马匹图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/张家界风光图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/待出售的点心图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/斯里兰卡图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/旅途风景图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/木板上草莓对角线拍摄图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/机舱外的风景图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/树枝图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/桌子上的时光图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/檀头山岛图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/武夷山酒店美食下午茶图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/水库图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/水稻图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/汉长城图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/沧海一鳞图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/波瓦山图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/泰国旅行图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/泰国美功铁道市场Maeklong Railway图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/泰国餐馆饭店图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/津旗码头图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/洱海清晨的彩霞倒映水中图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/海洋美景风光图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/海边喝饮料图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/玉门关图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/玉门关大方盘城图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/田园的麦子图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/田园风光图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/田间的花茶图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/电子营业执照.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/百香果图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/秋天麦田的风景图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/秋收的麦田图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/稻田守望人图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/红酒特写图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/缆车图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/美丽的大草原图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/老酒 酒坛子图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/草原湖泊森林图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/草原风车图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/草原风车夕阳里的童话世界图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/荷花图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/莲雾图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/落日海角图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/街道图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/西湖风光图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/赛里木湖全景图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/远山图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/钱塘江风光图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/银杏树图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/银河图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/阳光下晒竹笋图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/阳光下盛开的树图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/雪山草原风景图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/雷暴图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/露天餐厅冰镇鸡尾酒图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/风光照图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/风景小屋图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/饮马图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/高昌故城图片下载.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/UItest/鸡尾酒图片下载.jpg" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,6 +259,9 @@
       <replace>num</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -217,7 +307,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="527" />
     <option name="y" value="81" />
     <option name="width" value="1025" />
@@ -242,6 +332,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -264,6 +355,36 @@
             <path>
               <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
               <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+              <item name="excelddtdriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+              <item name="ke4test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+              <item name="ke5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+              <item name="ke5test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+              <item name="ke6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python接口课程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python接口课程" type="462c0819:PsiDirectoryNode" />
+              <item name="UItest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -462,13 +583,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46579805" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46579805" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46630436" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19029851" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
