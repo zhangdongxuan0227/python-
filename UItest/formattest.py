@@ -4,4 +4,5 @@ _author__ = 'zhangxingchen'
 print('{:,}'.format(123456789))
 
 
-print ('{1},{0},{1}'.format('chuhao',20))
+print('{1},{0},{1}'.format('chuhao', 'nihao'))
+print('{:,}'.format(78989787878))
